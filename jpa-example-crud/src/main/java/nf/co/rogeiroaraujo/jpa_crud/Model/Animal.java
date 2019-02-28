@@ -6,9 +6,10 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @Entity
+// a entidade (classe) que será mapeada
 public class Animal implements Serializable{
-    @Id
-    @GeneratedValue
+    @Id // define a chave primaria
+    @GeneratedValue // define a forma que o valor para o id será gerada
     private int id; // prmary key
     private String specie;
     private String nome;
