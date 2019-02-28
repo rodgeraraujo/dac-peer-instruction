@@ -7,6 +7,3 @@ Examples for DAC's Peer Instructions.
 ### Team:
 * Fernanda Vieira
 * Rogério Araujo
-
-
-* 
